@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<!-- saved from url=(0048)https://www.dcs.bbk.ac.uk/~cen/publications.html -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>Bioinformatics tools developed by Cen Wan's research team</title>
+<style>
+div.b {
+  text-indent: -2.5em;
+}
+</style>
+</head>
+<body>
+
+
+<h2>Bioinformatics Software (Recently) Developed by Wan Lab (2022 - present)</h2>
+<a href="https://scholar.google.co.uk/citations?user=u0R8kiwAAAAJ&amp;hl=en">Google Scholar</a>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://cenwcen.github.io/publications.html"> Academic Publications </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <a href="https://cenwcen.github.io/index.html">   Home Page</a><br><br>
+
+<hr>
+<ol>
+
+
+
+<h3>Contrastive Learning</h3>
+
+    <li><h3><b>Enhanced Gaussian noise augmentation-based protein-protein interaction network embedding contrastive learning (EGsCL)</h3></b><br>
+    <img src="/Users/cen/Documents/BBKHomepage/EGsCL.jpg" alt="" width="600" height="250"><br><br>
+  <b>Source code:</b> https://github.com/ibrahimsaggaf/EGsCL<br><br>
+  <b>Pre-trained models:</b> https://doi.org/10.5281/zenodo.12143797<br><br>
+  <b>Citation:</b> Alsaggaf, I., Freitas, A.A. and Wan, C. (2024) Predicting the pro-longevity or anti-longevity effect of model organism genes with enhanced Gaussian noise augmentation-based contrastive learning on protein–protein interaction networks,
+NAR Genomics and Bioinformatics.
+  <br></li><p><br>
+      <li><h3><b>Gaussian noise augmentation-based single-cell RNA-Seq contrastive learning (GsRCL)</h3></b><br>
+    <img src="/Users/cen/Documents/BBKHomepage/GsRCL.jpg" alt="" width="600" height="250"><br><br>
+  <b>Source code:</b> https://github.com/ibrahimsaggaf/GsRCL<br><br>
+  <b>Pre-trained models:</b> https://doi.org/10.5281/zenodo.10050548.<br><br>
+  <b>Citation:</b> Alsaggaf, I., Buchan, D. and Wan, C. (2024) Improving cell-type identification with Gaussian noise-augmented single-cell RNA-seq contrastive learning,
+Briefings in Functional Genomics, elad059.
+  <br></li><p><br>
+<hr>
+<h3>Biological Langauge Models</h3>
+
+    <li><h3><b>Temporal Convolutional Networks-based DNA sequence language model for predicting yeast gene expression profiles</h3></b><br>
+  <b>Source code:</b> https://github.com/de-Boer-Lab/random-promoter-dream-challenge-2022/tree/main/dream_submissions/Wan%26Barton_BBK/code<br><br>
+  <b>Citation:</b> Rafi, A.M., et al. (2024) A community effort to optimize sequence-based deep learning models of gene regulation, Nature Biotechnology.<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Alsaggaf, I., et al. (2022) Team WanBarton_BBK Submission. Available at: https://github.com/de-Boer-Lab/random-promoter-dream-challenge-2022/blob/main/dream_submissions/Wan%26Barton_BBK/report.pdf
+  <br></li><p><br>
+<hr>
+</p></ol>
+<hr>
+
+
+</body></html>
